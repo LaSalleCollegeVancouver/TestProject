@@ -295,6 +295,36 @@ Prefab:
       propertyPath: m_RootOrder
       value: 3
       objectReference: {fileID: 0}
+    - target: {fileID: 23645498252762588, guid: 1a9a0f1f7fd834c4a8330159fb253928,
+        type: 2}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 785a38dee6b96f146934e4ce88fcff35, type: 2}
+    - target: {fileID: 23060200241724708, guid: 1a9a0f1f7fd834c4a8330159fb253928,
+        type: 2}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 785a38dee6b96f146934e4ce88fcff35, type: 2}
+    - target: {fileID: 23409024952297710, guid: 1a9a0f1f7fd834c4a8330159fb253928,
+        type: 2}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 785a38dee6b96f146934e4ce88fcff35, type: 2}
+    - target: {fileID: 23823201571760756, guid: 1a9a0f1f7fd834c4a8330159fb253928,
+        type: 2}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 785a38dee6b96f146934e4ce88fcff35, type: 2}
+    - target: {fileID: 23147088193339488, guid: 1a9a0f1f7fd834c4a8330159fb253928,
+        type: 2}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 785a38dee6b96f146934e4ce88fcff35, type: 2}
+    - target: {fileID: 23379287481543002, guid: 1a9a0f1f7fd834c4a8330159fb253928,
+        type: 2}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 785a38dee6b96f146934e4ce88fcff35, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1a9a0f1f7fd834c4a8330159fb253928, type: 2}
   m_IsPrefabAsset: 0
@@ -343,7 +373,7 @@ MeshRenderer:
   m_ReflectionProbeUsage: 1
   m_RenderingLayerMask: 4294967295
   m_Materials:
-  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: 785a38dee6b96f146934e4ce88fcff35, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
